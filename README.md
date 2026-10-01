@@ -187,11 +187,10 @@ Hyper-parameters reported in the paper as tunable: number of decoder layers $L$,
 
 ## Repository structure
 
-```
-.
-                           # figures used in this README
-├── qlabelmil.py
-├── architecture.png
+```                          
+├── qlabelmil.py #architecture of the aggregator
+├── utils.py 
+├── architecture.png # figure used in this README
 └── README.md
 ```
 
