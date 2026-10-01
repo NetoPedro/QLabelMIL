@@ -40,13 +40,7 @@ Evaluated on **5,764 WSIs from 3,412 patients** against ABMIL, CLAM, ACMIL, Tran
 
 - [Method](#method)
 - [Results](#results)
-- [Installation](#installation)
-- [Data preparation](#data-preparation)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Per-class heatmaps](#per-class-heatmaps)
 - [Repository structure](#repository-structure)
-- [Data availability](#data-availability)
 - [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
