@@ -196,11 +196,8 @@ Hyper-parameters reported in the paper as tunable: number of decoder layers $L$,
 ```
 .
                            # figures used in this README
-├── configs/                # model and training configs
-├── qlabelmil/
-│   ├── models/             # query decoder, heads (independent / GCN), baselines
-│   ├── data/               # datasets, label graph construction
-│   └── utils/              # metrics (AUROC, ECE), visualisation
+├── qlabelmil.py
+├── architecture.png
 └── README.md
 ```
 
