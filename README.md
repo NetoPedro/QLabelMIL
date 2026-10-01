@@ -11,8 +11,7 @@
 
 **MICCAI 2026 · COMPAYL Workshop**
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-DE3B20)](#) <!-- TODO: link to paper / arXiv -->
-[![Poster](https://img.shields.io/badge/Poster-A0-F09500)](#) <!-- TODO: link to poster PDF -->
+[![Paper](https://img.shields.io/badge/Paper-PDF-DE3B20)](https://papers.miccai.org/miccai-2026-sat/paper/COMPAYL_060.pdf) <!-- TODO: link to paper / arXiv -->
 
 </div>
 
